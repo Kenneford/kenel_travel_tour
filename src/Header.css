@@ -1,0 +1,215 @@
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--primary-color);
+  background: var(--secondary-color);
+}
+header img {
+  filter: brightness(200) invert(1);
+}
+.logoText {
+  text-align: left;
+}
+.logoText h1 {
+  /* font-size: 4em; */
+  font-family: "roboto";
+}
+.logoText h3 {
+  margin-top: -10px;
+  font-family: "roboto";
+  font-size: 1.7em;
+}
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: transparent;
+  color: var(--primary-color);
+  padding: 20px 5px;
+  font-size: 1em;
+  border-top: 1px solid var(--primary-color);
+  border-bottom: 1px solid var(--primary-color);
+}
+nav a {
+  margin: 0 5px;
+  text-decoration: none;
+  color: var(--primary-color);
+}
+
+/* Regions */
+.regions {
+  display: flex;
+}
+.regions li {
+  list-style: none;
+  padding: 5px;
+}
+.menuIcon {
+  display: none;
+}
+.accraLinks:hover,
+.ashantiLinks:hover,
+.voltaLinks:hover,
+.centralLinks:hover,
+.northernLinks:hover,
+.otherLinks:hover {
+  text-decoration: none;
+  font-weight: 600;
+}
+.accraLinks ul,
+.ashantiLinks ul,
+.voltaLinks ul,
+.centralLinks ul,
+.otherLinks ul {
+  display: none;
+  position: absolute;
+  background: var(--secondary-color);
+  border-radius: 0px 0px 4px 4px;
+  align-items: center;
+  text-align: left;
+  padding-top: 20px;
+  padding-bottom: 5px;
+  z-index: 10;
+}
+.accraLinks:hover ul,
+.ashantiLinks:hover ul,
+.voltaLinks:hover ul,
+.centralLinks:hover ul,
+.northernLinks:hover ul,
+.otherLinks:hover ul {
+  display: block;
+  color: var(--secondary-color);
+}
+.accraLinks ul li:hover,
+.ashantiLinks ul li:hover,
+.voltaLinks ul li:hover,
+.centralLinks ul li:hover,
+.northernLinks ul li:hover,
+.otherLinks ul li:hover {
+  background: var(--primary-color);
+  font-weight: 600;
+}
+.accraLinks ul li:hover a,
+.ashantiLinks ul li:hover a,
+.voltaLinks ul li:hover a,
+.centralLinks ul li:hover a,
+.northernLinks ul li:hover a,
+.otherLinks ul li:hover a {
+  color: var(--secondary-color);
+}
+.accraLinks ul li a,
+.ashantiLinks ul li a,
+.voltaLinks ul li a,
+.centralLinks ul li a,
+.northernLinks ul li a,
+.otherLinks ul li a {
+  font-size: 1em;
+  padding-bottom: 5px;
+  font-weight: 100;
+  color: var(--primary-color);
+  transition: 0.4s ease-in-out;
+}
+.otherLinks ul li .eastern,
+.otherLinks ul li .western,
+.otherLinks ul li .northern,
+.otherLinks ul li .upper-east,
+.otherLinks ul li .ahafo {
+  display: none;
+  left: 100%;
+  padding-top: 0;
+  margin-top: -14%;
+}
+.otherLinks ul li .eastern {
+  width: 190px;
+}
+.otherLinks ul li .western {
+  width: 205px;
+}
+.otherLinks ul li .northern {
+  width: 160px;
+}
+.otherLinks ul li .upper-east {
+  width: 249px;
+}
+.otherLinks ul li .ahafo {
+  width: 265px;
+}
+.otherLinks ul li:hover .eastern,
+.otherLinks ul li:hover .western,
+.otherLinks ul li:hover .northern,
+.otherLinks ul li:hover .upper-east,
+.otherLinks ul li:hover .ahafo {
+  display: block;
+  /* padding-top: 2px; */
+}
+.otherLinks ul li:hover .eastern li,
+.otherLinks ul li:hover .western li,
+.otherLinks ul li:hover .northern li,
+.otherLinks ul li:hover .upper-east li,
+.otherLinks ul li:hover .ahafo li {
+  padding-bottom: 7px;
+}
+.otherLinks ul li .eastern li a,
+.otherLinks ul li .western li a,
+.otherLinks ul li .northern li a,
+.otherLinks ul li .upper-east li a,
+.otherLinks ul li .ahafo li a {
+  color: var(--primary-color);
+}
+.otherLinks ul li .eastern li:hover a,
+.otherLinks ul li .western li:hover a,
+.otherLinks ul li .northern li:hover a,
+.otherLinks ul li .upper-east li:hover a,
+.otherLinks ul li .ahafo li:hover a {
+  color: var(--secondary-color);
+}
+
+/* Pages */
+.line {
+  margin-left: 10px;
+}
+.pageLinks {
+  display: flex;
+}
+.pages {
+  margin-left: 10px;
+}
+.pages a {
+  /* padding-top: 15px; */
+  font-size: 1.1em;
+  /* transition: .1s ease-out; */
+}
+.pages a:hover {
+  font-weight: 600;
+  border-top: 3px solid var(--primary-color);
+  padding-top: 20px;
+  text-decoration: none;
+  color: var(--primary-color);
+}
+.active {
+  font-weight: 600;
+  border-bottom: 1px solid var(--primary-color);
+}
+.upcoming a {
+  background: transparent;
+  padding: 2px 5px;
+  border-radius: 20px;
+  border: 2px solid var(--primary-color);
+  font-weight: 600;
+  font-size: 0.9em;
+  color: var(--primary-color);
+  transition: 0.4s ease-in-out;
+}
+.upcoming a:hover {
+  background: var(--primary-color);
+  color: var(--secondary-color);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+/* @media screen and (min-width: 412px) and (max-width: 520px){
+    .menuIcon{
+        display: block;
+    }
+} */

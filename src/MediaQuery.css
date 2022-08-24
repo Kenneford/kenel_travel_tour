@@ -1,0 +1,251 @@
+@media screen and (min-width: 1025px) and (max-width: 1200px) {
+  header {
+    justify-content: left;
+    padding-left: 30px;
+  }
+  .line {
+    display: none;
+  }
+  .pageLinks {
+    position: absolute;
+    top: 6%;
+    right: 5%;
+  }
+  .accraLinks,
+  .ashantiLinks,
+  .voltaLinks,
+  .centralLinks,
+  .northernLinks,
+  .otherLinks {
+    font-size: 0.95em;
+    font-weight: 500;
+    margin: 0;
+  }
+  .accraLinks ul,
+  .ashantiLinks ul,
+  .voltaLinks ul,
+  .centralLinks ul,
+  .northernLinks ul,
+  .otherLinks ul {
+    font-size: 0.9em;
+  }
+  .pages a {
+    transition: none;
+  }
+  .pages a:hover {
+    font-weight: normal;
+    border-top: none;
+    padding-top: none;
+  }
+}
+@media screen and (min-width: 912px) and (max-width: 1024px) {
+  header {
+    justify-content: left;
+    padding-left: 30px;
+  }
+  .logoText h1 {
+    font-size: 2em;
+  }
+  .logoText h3 {
+    margin-top: -20px;
+    font-size: 1.3em;
+  }
+  #menubutton-3,
+  #menubutton-19,
+  #menubutton-43,
+  #menubutton-67,
+  #menubutton-95,
+  #menubutton-115 {
+    background: transparent;
+    margin: 0 -10px;
+  }
+  .line {
+    display: none;
+  }
+  .pageLinks {
+    position: absolute;
+    top: 4%;
+    right: 6%;
+  }
+  .accraLinks,
+  .ashantiLinks,
+  .voltaLinks,
+  .centralLinks,
+  .northernLinks,
+  .otherLinks {
+    font-size: 0.95em;
+    font-weight: 500;
+    margin: 0;
+  }
+  .accraLinks ul,
+  .ashantiLinks ul,
+  .voltaLinks ul,
+  .centralLinks ul,
+  .northernLinks ul,
+  .otherLinks ul {
+    font-size: 0.9em;
+  }
+
+  .pages a {
+    transition: none;
+  }
+  .pages a:hover {
+    font-weight: normal;
+    border-top: none;
+    padding-top: none;
+  }
+}
+@media screen and (min-width: 821px) and (max-width: 910px) {
+  header {
+    justify-content: left;
+    padding-left: 30px;
+  }
+  .logoText h1 {
+    font-size: 2em;
+  }
+  .logoText h3 {
+    margin-top: -20px;
+    font-size: 1.3em;
+  }
+  #menubutton-3,
+  #menubutton-19,
+  #menubutton-43,
+  #menubutton-67,
+  #menubutton-95,
+  #menubutton-115 {
+    background: transparent;
+    margin: 0 -10px;
+  }
+  .line {
+    display: none;
+  }
+  .pageLinks {
+    position: absolute;
+    top: 4%;
+    right: 6%;
+  }
+  .accraLinks,
+  .ashantiLinks,
+  .voltaLinks,
+  .centralLinks,
+  .northernLinks,
+  .otherLinks {
+    font-size: 0.95em;
+    font-weight: 500;
+    margin: 0;
+  }
+  .accraLinks ul,
+  .ashantiLinks ul,
+  .voltaLinks ul,
+  .centralLinks ul,
+  .northernLinks ul,
+  .otherLinks ul {
+    font-size: 0.9em;
+  }
+
+  .pages a {
+    transition: none;
+  }
+  .pages a:hover {
+    font-weight: normal;
+    border-top: none;
+    padding-top: none;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 820px) {
+  header {
+    justify-content: left;
+    padding-left: 30px;
+  }
+  .logoText h1 {
+    font-size: 2em;
+  }
+  .logoText h3 {
+    margin-top: -20px;
+    font-size: 1.3em;
+  }
+  #menubutton-3,
+  #menubutton-19,
+  #menubutton-43,
+  #menubutton-67,
+  #menubutton-95,
+  #menubutton-115 {
+    background: transparent;
+    margin: 0 -10px;
+  }
+  .line {
+    display: none;
+  }
+  .pageLinks {
+    position: absolute;
+    top: 4%;
+    right: 6%;
+  }
+  .accraLinks,
+  .ashantiLinks,
+  .voltaLinks,
+  .centralLinks,
+  .northernLinks,
+  .otherLinks {
+    font-size: 0.95em;
+    font-weight: 500;
+    margin: 0;
+  }
+  .accraLinks ul,
+  .ashantiLinks ul,
+  .voltaLinks ul,
+  .centralLinks ul,
+  .northernLinks ul,
+  .otherLinks ul {
+    font-size: 0.9em;
+  }
+
+  .pages a {
+    transition: none;
+  }
+  .pages a:hover {
+    font-weight: normal;
+    border-top: none;
+    padding-top: none;
+  }
+}
+
+@media screen and (min-width: 360px) and (max-width: 767px) {
+  header {
+    display: flex;
+    justify-content: center;
+  }
+  header img {
+    margin-left: 0%;
+  }
+  .logoText {
+    text-align: left;
+  }
+  .regions {
+    display: none;
+  }
+  .menuIcon {
+    display: flex;
+  }
+  .line {
+    display: none;
+  }
+  .pages a {
+    transition: none;
+  }
+  .pages a:hover {
+    font-weight: normal;
+    border-top: none;
+    padding-top: none;
+  }
+  /* .accraLinks, .ashantiLinks, .voltaLinks,
+    .centralLinks, .northernLinks, .otherLinks{
+    font-size: .95em;
+    font-weight: 500;
+    margin: 0;
+    }
+    .accraLinks ul, .ashantiLinks ul, .voltaLinks ul, 
+    .centralLinks ul, .northernLinks ul, .otherLinks ul{
+    font-size: .9em;
+  } */
+}
