@@ -6,9 +6,9 @@ export default function Footer() {
   return (
     <div>
       <Outlet />
-      <footer>
+      <div className="footer">
         <p>Copyright &copy;2022 Kenel Travel & Tour</p>
-      </footer>
+      </div>
     </div>
   );
 }

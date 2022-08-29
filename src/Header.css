@@ -41,7 +41,8 @@ nav a {
 .regions {
   display: flex;
 }
-.regions li {
+.regions li,
+.otherLinks ul li {
   list-style: none;
   padding: 5px;
 }
@@ -118,7 +119,7 @@ nav a {
   display: none;
   left: 100%;
   padding-top: 0;
-  margin-top: -14%;
+  margin-top: -15%;
 }
 .otherLinks ul li .eastern {
   width: 190px;

@@ -1,0 +1,628 @@
+[
+  {
+    "title": "Discover Ghana's Top Tourist Sites",
+    "description": "We're passionate about helping travelers to experience all the best in Ghana. Find everything right here, from god culture, lovely people, and all wonderful tourist attractions",
+    "regions": [
+      {
+        "accra": [
+          {
+            "id": "1",
+            "name": "Greater Accra",
+            "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "location": "South of Ghana",
+            "places": [
+              {
+                "id": "001",
+                "name": "Osu Castle",
+                "info": "",
+                "bgimage": "",
+                "images": [
+                  {
+                    "image": "",
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "id": "002",
+                "name": "Independence Square",
+                "info": "",
+                "bgimage": "",
+                "images": [
+                  {
+                    "image": "",
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "id": "003",
+                "name": "Kwame Nkrumah Memorial Park",
+                "info": "",
+                "bgimage": "",
+                "images": [
+                  {
+                    "image": "",
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+
+        "ashanti": [
+          {
+            "id": "2",
+            "name": "Ashanti",
+            "info": "",
+            "location": "",
+            "places": [
+              {
+                "id": "004",
+                "name": "Lake Bosontwe",
+                "info": "",
+                "bgimage": "",
+                "images": [
+                  {
+                    "image": "",
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "id": "005",
+                "name": "IndeManhyia Palace",
+                "info": "",
+                "bgimage": "",
+                "images": [
+                  {
+                    "image": "",
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "id": "006",
+                "name": "Prempeh II Museum",
+                "info": "",
+                "bgimage": "",
+                "images": [
+                  {
+                    "image": "",
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "id": "007",
+                "name": "Okomfo Anokye Sword Site",
+                "info": "",
+                "bgimage": "",
+                "images": [
+                  {
+                    "image": "",
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "id": "008",
+                "name": "Bonwire Kente Weaving Village",
+                "info": "",
+                "bgimage": "",
+                "images": [
+                  {
+                    "image": "",
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+
+        "volta": [
+          {
+            "id": "3",
+            "name": "Volta",
+            "info": "",
+            "location": "",
+            "places": [
+              {
+                "id": "009",
+                "name": "Mount Afadja",
+                "info": "",
+                "bgimage": "",
+                "images": [
+                  {
+                    "image": "",
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "id": "010",
+                "name": "Fort Prinzenstein",
+                "info": "",
+                "bgimage": "",
+                "images": [
+                  {
+                    "image": "",
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "id": "011",
+                "name": "Ote Falls",
+                "info": "",
+                "bgimage": "",
+                "images": [
+                  {
+                    "image": "",
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "id": "012",
+                "name": "Tafi Monkey Sanctuary",
+                "info": "",
+                "bgimage": "",
+                "images": [
+                  {
+                    "image": "",
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "id": "013",
+                "name": "Ave Crocodile Resort",
+                "info": "",
+                "bgimage": "",
+                "images": [
+                  {
+                    "image": "",
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+
+        "central": [
+          {
+            "id": "4",
+            "name": "Central",
+            "info": "",
+            "location": "",
+            "places": [
+              {
+                "id": "014",
+                "name": "Assin Manso Slave River",
+                "info": "",
+                "bgimage": "",
+                "images": [
+                  {
+                    "image": "",
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "id": "015",
+                "name": "Posuban Shrines",
+                "info": "",
+                "bgimage": "",
+                "images": [
+                  {
+                    "image": "",
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "id": "016",
+                "name": "Kakum National Park",
+                "info": "",
+                "bgimage": "",
+                "images": [
+                  {
+                    "image": "",
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "id": "017",
+                "name": "Elmina Castle",
+                "info": "",
+                "bgimage": "",
+                "images": [
+                  {
+                    "image": "",
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "id": "018",
+                "name": "Monkey Forest Resort",
+                "info": "",
+                "bgimage": "",
+                "images": [
+                  {
+                    "image": "",
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "id": "019",
+                "name": "International Stingless Bee Centre",
+                "info": "",
+                "bgimage": "",
+                "images": [
+                  {
+                    "image": "",
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+
+        "others": [
+          {
+            "eastern": [
+              {
+                "id": "5",
+                "name": "Eastern",
+                "info": "",
+                "location": "",
+                "places": [
+                  {
+                    "id": "020",
+                    "name": "Boti Falls",
+                    "info": "",
+                    "bgimage": "",
+                    "images": [
+                      {
+                        "image": "",
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "id": "021",
+                    "name": "Lake Volta",
+                    "info": "",
+                    "bgimage": "",
+                    "images": [
+                      {
+                        "image": "",
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "id": "022",
+                    "name": "Umbrella Rock",
+                    "info": "",
+                    "bgimage": "",
+                    "images": [
+                      {
+                        "image": "",
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "id": "023",
+                    "name": "Aburi Botanical Gardens",
+                    "info": "",
+                    "bgimage": "",
+                    "images": [
+                      {
+                        "image": "",
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+
+            "western": [
+              {
+                "id": "6",
+                "name": "Western",
+                "info": "",
+                "location": "",
+                "places": [
+                  {
+                    "id": "024",
+                    "name": "Nzulezu Stilt Village",
+                    "info": "",
+                    "bgimage": "",
+                    "images": [
+                      {
+                        "image": "",
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "id": "025",
+                    "name": "Akatekyi Crocodile Pond",
+                    "info": "",
+                    "bgimage": "",
+                    "images": [
+                      {
+                        "image": "",
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "id": "026",
+                    "name": "Ahanta Surf School",
+                    "info": "",
+                    "bgimage": "",
+                    "images": [
+                      {
+                        "image": "",
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "id": "027",
+                    "name": "Ankasa Conservation Area",
+                    "info": "",
+                    "bgimage": "",
+                    "images": [
+                      {
+                        "image": "",
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+
+            "northern": [
+              {
+                "id": "7",
+                "name": "Northern",
+                "info": "",
+                "location": "",
+                "places": [
+                  {
+                    "id": "028",
+                    "name": "Mole National Park",
+                    "info": "",
+                    "bgimage": "",
+                    "images": [
+                      {
+                        "image": "",
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "id": "029",
+                    "name": "Laribanga Mosque",
+                    "info": "",
+                    "bgimage": "",
+                    "images": [
+                      {
+                        "image": "",
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "id": "030",
+                    "name": "Mognori Eco-Village",
+                    "info": "",
+                    "bgimage": "",
+                    "images": [
+                      {
+                        "image": "",
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "id": "031",
+                    "name": "The Mystic Stone",
+                    "info": "",
+                    "bgimage": "",
+                    "images": [
+                      {
+                        "image": "",
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+
+            "upperEast": [
+              {
+                "id": "8",
+                "name": "Upper-East",
+                "info": "",
+                "location": "",
+                "places": [
+                  {
+                    "id": "032",
+                    "name": "Paga Crocodile Pond",
+                    "info": "",
+                    "bgimage": "",
+                    "images": [
+                      {
+                        "image": "",
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "id": "033",
+                    "name": "Tongo Hills And Tenzug Shrines",
+                    "info": "",
+                    "bgimage": "",
+                    "images": [
+                      {
+                        "image": "",
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "id": "034",
+                    "name": "Navrongo Cathedral",
+                    "info": "",
+                    "bgimage": "",
+                    "images": [
+                      {
+                        "image": "",
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "id": "035",
+                    "name": "Pikworo Slave Camp",
+                    "info": "",
+                    "bgimage": "",
+                    "images": [
+                      {
+                        "image": "",
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "id": "036",
+                    "name": "Sacred Crocodile Ponds",
+                    "info": "",
+                    "bgimage": "",
+                    "images": [
+                      {
+                        "image": "",
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+
+            "ahafo": [
+              {
+                "id": "9",
+                "name": "Ahafo",
+                "info": "",
+                "location": "",
+                "places": [
+                  {
+                    "id": "037",
+                    "name": "Kintampo Waterfalls",
+                    "info": "",
+                    "bgimage": "",
+                    "images": [
+                      {
+                        "image": "",
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "id": "038",
+                    "name": "Tano Boase",
+                    "info": "",
+                    "bgimage": "",
+                    "images": [
+                      {
+                        "image": "",
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "id": "039",
+                    "name": "Bui National Park",
+                    "info": "",
+                    "bgimage": "",
+                    "images": [
+                      {
+                        "image": "",
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "id": "040",
+                    "name": "Fuller Falls",
+                    "info": "",
+                    "bgimage": "",
+                    "images": [
+                      {
+                        "image": "",
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "id": "041",
+                    "name": "Buoyem Sacred Grove",
+                    "info": "",
+                    "bgimage": "",
+                    "images": [
+                      {
+                        "image": "",
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "id": "042",
+                    "name": "Digya National Park",
+                    "info": "",
+                    "bgimage": "",
+                    "images": [
+                      {
+                        "image": "",
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "id": "043",
+                    "name": "Buabeng Fiema Monkey Sanctuary",
+                    "info": "",
+                    "bgimage": "",
+                    "images": [
+                      {
+                        "image": "",
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

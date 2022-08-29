@@ -7,9 +7,11 @@ import HomeContent from "./HomeContent";
 function App() {
   return (
     <div className="App">
-      <Header />
-      <HomeContent />
-      <Footer />
+      <div>
+        <Header />
+        <HomeContent />
+        <Footer />
+      </div>
     </div>
   );
 }
