@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kenel_travel_tour/static/css/main.cbb02607.css",
-    "main.js": "/kenel_travel_tour/static/js/main.b4072426.js",
+    "main.css": "/kenel_travel_tour/static/css/main.3bb7c5af.css",
+    "main.js": "/kenel_travel_tour/static/js/main.6b81a333.js",
     "static/media/ghana-overlay.jpg": "/kenel_travel_tour/static/media/ghana-overlay.f6c2b285185dbed4a431.jpg",
     "static/media/travel.png": "/kenel_travel_tour/static/media/travel.0fdaaa7a0bce53085455.png",
     "index.html": "/kenel_travel_tour/index.html",
-    "main.cbb02607.css.map": "/kenel_travel_tour/static/css/main.cbb02607.css.map",
-    "main.b4072426.js.map": "/kenel_travel_tour/static/js/main.b4072426.js.map"
+    "main.3bb7c5af.css.map": "/kenel_travel_tour/static/css/main.3bb7c5af.css.map",
+    "main.6b81a333.js.map": "/kenel_travel_tour/static/js/main.6b81a333.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbb02607.css",
-    "static/js/main.b4072426.js"
+    "static/css/main.3bb7c5af.css",
+    "static/js/main.6b81a333.js"
   ]
 }
