@@ -15,7 +15,9 @@
   text-shadow: 3px 1px 2px var(--secondary-color);
 }
 .bgImageText p {
-  font-size: 1.2em;
+  width: 35%;
+  margin: auto;
+  font-size: 1.3em;
   font-weight: 600;
   color: var(--primary-color);
   text-shadow: 1px 1px 1px var(--secondary-color);
@@ -108,6 +110,10 @@
   .container {
     width: 100%;
   }
+  .bgImageText p {
+    width: 45%;
+    margin-top: 10px;
+  }
 }
 
 @media screen and (min-width: 1201px) and (max-width: 1500px) {
@@ -117,6 +123,10 @@
   .bgImageText {
     top: 40%;
   }
+  .bgImageText p {
+    width: 55%;
+    margin-top: 10px;
+  }
 }
 @media screen and (min-width: 1024px) and (max-width: 1200px) {
   .container {
@@ -125,6 +135,10 @@
   .bgImageText {
     top: 38%;
   }
+  .bgImageText p {
+    width: 65%;
+    margin-top: 10px;
+  }
 }
 @media screen and (min-width: 912px) and (max-width: 1023px) {
   .container {
@@ -132,6 +146,10 @@
   }
   .bgImageText {
     top: 38%;
+  }
+  .bgImageText p {
+    width: 65%;
+    margin-top: 10px;
   }
   .culture,
   .foods,
@@ -154,6 +172,10 @@
   .bgImageText {
     top: 38%;
   }
+  .bgImageText p {
+    width: 75%;
+    margin-top: 10px;
+  }
   .culture,
   .foods,
   .people,
@@ -174,6 +196,10 @@
   }
   .bgImageText {
     top: 38%;
+  }
+  .bgImageText p {
+    width: 75%;
+    margin-top: 10px;
   }
   .culture,
   .foods,
