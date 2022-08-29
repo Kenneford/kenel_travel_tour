@@ -22,7 +22,7 @@ export default function Header1({ region }) {
       </header>
       {allData.map((data, id) => {
         return (
-          <div>
+          <div key={id}>
             {data.regions.map((region, id) => {
               return (
                 <nav key={id}>

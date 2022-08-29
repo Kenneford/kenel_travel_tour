@@ -3,6 +3,7 @@ import ghana from "./ghana-overlay.jpg";
 import "./HomeContent.css";
 import "./MediaQuery.css";
 import { Container, Paper } from "@mui/material";
+import allData from "./data.json";
 
 export default function HomeContent() {
   return (
@@ -19,13 +20,14 @@ export default function HomeContent() {
           }}
         >
           <div className="bgImageText">
-            <h1>Discover Ghana's Top Tourist Sites</h1>
-            <p>
-              We're passionate about helping travelers to experience all the
-              best
-              <br /> in Ghana. Find everything right here, from good culture,
-              <br /> lovely people, and wonderful tourist attractions.
-            </p>
+            {allData.map((data, id) => {
+              return (
+                <div key={id}>
+                  <h1>{data.title}</h1>
+                  <p>{data.description}</p>
+                </div>
+              );
+            })}
           </div>
         </div>
       </div>
