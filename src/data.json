@@ -6,13 +6,18 @@
       {
         "id": "1",
         "name": "Greater Accra",
-        "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "info": "Accra is the capital and largest city of Ghana, located on the southern coast at the Gulf of Guinea, which is part of the Atlantic Ocean. At the 2021 census, the Accra Metropolitan District, had a population of 284,124 inhabitants, and the larger Greater Accra Region, had a population of 5,455,692 inhabitants. In common usage, the name 'Accra' often refers to the territory of the Accra Metropolitan District as it existed before 2008, when it covered 199.4 km2 (77.0 sq mi). This territory has since been split into 13 local government districts: 12 independent municipal districts and the reduced Accra Metropolitan District, which is the only district within the capital to be granted city status. This territory of 199.4 km² contained 1,782,150 inhabitants at the 2021 census, and serves as the capital of Ghana, while the district under the jurisdiction of the Accra Metropolitan Assembly proper (20.4 km²) is distinguished from the rest of the capital as the 'City of Accra'. Formed from the merger of distinct settlements around British Fort James, Dutch Fort Crêvecoeur (Ussher Fort), and Danish Fort Christiansborg as Jamestown, Usshertown, and Christiansborg respectively, Accra served as the capital of the British Gold Coast between 1877 and 1957 and has since transitioned into a modern metropolis. The capital's architecture reflects this history, ranging from 19th-century colonial architecture to modern skyscrapers and apartment blocks. Accra is the Greater Accra Region's economic and administrative hub, and serves as the anchor of the larger Greater Accra Metropolitan Area (GAMA), which is inhabited by about 4 million people, making it the thirteenth-largest metropolitan area in Africa. In 2020, the Globalization and World Cities Research Network think tank designated Accra as a 'Gamma' level global city, indicating a growing level of international influence and connectedness.",
         "location": "South of Ghana",
+        "hotels": [{}],
+        "shops": [{}],
+        "restaurants": [{}],
+        "entertainments": [{}],
+        "bgImage": "https://buzzghana.com/wp-content/uploads/2014/11/Accra-Ghana7.jpg",
         "places": [
           {
             "id": "001",
             "name": "Osu Castle",
-            "info": "ghmhm,xc",
+            "info": "",
             "bgimage": "",
             "images": [
               {
@@ -52,7 +57,12 @@
         "id": "2",
         "name": "Ashanti",
         "info": "the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions",
-        "location": "",
+        "location": "South of Ghana",
+        "hotels": [{}],
+        "shops": [{}],
+        "restaurants": [{}],
+        "entertainments": [{}],
+        "bgImage": "https://static1.mclcm.net/iod/images/v2/114/citytheque/localite_104_67/800x360_100_300_000000x10x0.jpg",
         "places": [
           {
             "id": "004",
@@ -121,7 +131,12 @@
         "id": "3",
         "name": "Volta",
         "info": "",
-        "location": "",
+        "location": "South-East of Ghana",
+        "hotels": [{}],
+        "shops": [{}],
+        "restaurants": [{}],
+        "entertainments": [{}],
+        "bgImage": "https://farm3.static.flickr.com/2805/10021914413_d3e93e06ac_b.jpg",
         "places": [
           {
             "id": "009",
@@ -189,8 +204,13 @@
       {
         "id": "4",
         "name": "Central",
-        "info": "",
-        "location": "",
+        "info": "The Central Region is one of the sixteen administrative regions of Ghana. It is bordered by Ashanti and Eastern regions to the north, Western region to the west, Greater Accra region to the east, and to the south by the Gulf of Guinea. The Central region is renowned for its many elite higher education institutions and an economy based on an abundance of industrial minerals and tourism. The Central region attains many tourist attractions such as castles, forts and beaches stretched along the Central region's coastline. The Central Region is a hub of education, with some of the best schools in the country. The region's economy is dominated by services followed by mining and fishing. Cape Coast Castle and Elmina Castle are prominent UNESCO World Heritage Sites and serve as a reminder of the slave trade. The Central Region is a major center for tourism within the peninsula of Ashantiland and it has some of the most beautiful beaches and national parks (Kakum National Park).[3] U.S. President Barack Obama made his first international trip to the city of Cape Coast in 2009. ",
+        "location": "South-Western Centre of Ghana",
+        "hotels": [{}],
+        "shops": [{}],
+        "restaurants": [{}],
+        "entertainments": [{}],
+        "bgImage": "https://cdn.getyourguide.com/img/tour/5f0d75478a0e5.jpeg/159.jpg",
         "places": [
           {
             "id": "014",
