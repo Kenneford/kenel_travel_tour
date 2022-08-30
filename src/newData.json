@@ -12,7 +12,7 @@
           {
             "id": "001",
             "name": "Osu Castle",
-            "info": "ghmhm,xc",
+            "info": "",
             "bgimage": "",
             "images": [
               {
@@ -51,7 +51,7 @@
       {
         "id": "2",
         "name": "Ashanti",
-        "info": "the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions",
+        "info": "",
         "location": "",
         "places": [
           {
@@ -460,7 +460,7 @@
           },
           {
             "id": "033",
-            "name": "Tongo Hills / Tenzug Shrines",
+            "name": "Tongo Hills And Tenzug Shrines",
             "info": "",
             "bgimage": "",
             "images": [
@@ -589,7 +589,7 @@
           },
           {
             "id": "043",
-            "name": "Fiema Monkey Sanctuary",
+            "name": "Buabeng Fiema Monkey Sanctuary",
             "info": "",
             "bgimage": "",
             "images": [

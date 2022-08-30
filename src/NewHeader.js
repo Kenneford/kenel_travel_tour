@@ -7,7 +7,6 @@ import "./MediaQuery.css";
 import { ArrowDropDown, ArrowRight } from "@mui/icons-material";
 import allData from "./data.json";
 import newData from "./newData.json";
-import { MenuItem } from "@mui/material";
 
 export default function NewHeader() {
   return (
@@ -19,19 +18,17 @@ export default function NewHeader() {
           <h3>Travel & Tour</h3>
         </div>
       </header>
-      {allData.map((data, id) => {
+      {newData.map((data, id) => {
         console.log(data);
         return (
           <nav key={id}>
-            <div className="menuIcon">
-              <Menu />
-            </div>
-            <div>
+            <div className="regions">
               <div className="regions">
                 {data.regions.map((region, id) => {
+                  console.log(region);
                   return (
                     <Link
-                      to={`/region-info/${id}`}
+                      to={`/region-info/${region.name}`}
                       key={id}
                       className="accraLinks"
                     >
@@ -41,7 +38,7 @@ export default function NewHeader() {
                         {region.places.map((place, id) => {
                           return (
                             <li key={id}>
-                              <Link to={`/tour-place-info/${id}`}>
+                              <Link to={`/tour-place-info/${place.name}`}>
                                 {place.name}
                               </Link>
                             </li>
@@ -57,16 +54,17 @@ export default function NewHeader() {
                   <ArrowDropDown sx={{ marginBottom: "-7px" }} />
                   <ul>
                     {data.otherRegions.map((otherRegion, id) => {
+                      console.log(otherRegion);
                       return (
                         <li key={id}>
-                          <Link to={`/extra-region-info/${id}`}>
+                          <Link to={`/region-info/${otherRegion.name}`}>
                             {otherRegion.name} Region
                             <ArrowRight sx={{ marginBottom: "-7px" }} />
-                            <ul className="other-places">
+                            <ul>
                               {otherRegion.places.map((place, id) => {
                                 return (
                                   <li key={id}>
-                                    <Link to={`/extra-tour-info/${place.id}`}>
+                                    <Link to={`/tour-place-info/${place.name}`}>
                                       {place.name}
                                     </Link>
                                   </li>
