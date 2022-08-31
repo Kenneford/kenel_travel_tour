@@ -1,5 +1,6 @@
 [
   {
+    "homeBgImage": "https://cdn.cnn.com/cnnnext/dam/assets/190206165057-senya-beraku-full-169.jpg",
     "title": "Discover Ghana's Top Tourist Sites",
     "description": "We're passionate about helping travelers to experience all the best in Ghana. Find everything right here, from god culture, lovely people, and all wonderful tourist attractions",
     "regions": [
@@ -62,7 +63,7 @@
         "shops": [{}],
         "restaurants": [{}],
         "entertainments": [{}],
-        "bgImage": "https://static1.mclcm.net/iod/images/v2/114/citytheque/localite_104_67/800x360_100_300_000000x10x0.jpg",
+        "bgImage": "https://upload.wikimedia.org/wikipedia/commons/1/11/Sawah_rice_cultivation_in_inland_valleys_in_Ashanti_region%2C_Ghana_-_panoramio_%2814%29.jpg",
         "places": [
           {
             "id": "004",
@@ -293,7 +294,8 @@
         "id": "5",
         "name": "Eastern",
         "info": "",
-        "location": "",
+        "location": "South of Ghana",
+        "bgImage": "https://visitghana.com/wp-content/uploads/2019/02/2719_Ada-Lake-pics-95-min.jpg",
         "places": [
           {
             "id": "020",
@@ -350,7 +352,8 @@
         "id": "6",
         "name": "Western",
         "info": "",
-        "location": "",
+        "location": "South-Western of Ghana",
+        "bgImage": "https://img.trvcdn.net/https://media.tacdn.com/media/attractions-splice-spp-720x480/07/94/12/d9.jpg?imgeng=m_box/w_1418/h_946",
         "places": [
           {
             "id": "024",
@@ -407,7 +410,8 @@
         "id": "7",
         "name": "Northern",
         "info": "",
-        "location": "",
+        "location": "North of Ghana",
+        "bgImage": "http://photogallery-mmg.mpg.de/wp-content/uploads/2014/12/Pic_24.jpg",
         "places": [
           {
             "id": "028",
@@ -464,7 +468,8 @@
         "id": "8",
         "name": "Upper-East",
         "info": "",
-        "location": "",
+        "location": "North-Eastern of Ghana",
+        "bgImage": "https://mtetzlaf.files.wordpress.com/2015/01/img_4589.jpg",
         "places": [
           {
             "id": "032",
@@ -533,7 +538,8 @@
         "id": "9",
         "name": "Ahafo",
         "info": "",
-        "location": "",
+        "location": "South of Ghana",
+        "bgImage": "https://media.istockphoto.com/photos/rock-formation-landscape-at-tano-sacred-grove-near-techiman-picture-id1134422496?k=20&m=1134422496&s=170667a&w=0&h=XszN2dqNgPqyseNqLxCR4lrFUB54Q32hJvw1oiykUV4=",
         "places": [
           {
             "id": "037",

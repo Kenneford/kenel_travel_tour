@@ -17,17 +17,7 @@ function App() {
     <div className="App">
       <div>
         <Header />
-        <Routes>
-          <Route path="/" element={<App />} />
-          <Route index element={<HomeContent />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="/upcoming-tour" element={<UpcomingTour />} />
-          <Route path="/region-info/:id" element={<RegionInfo />} />
-          <Route path="/tour-place-info/:id" element={<TourInfo />} />
-          <Route path="/extra-region-info/:id" element={<OtherRegionsInfo />} />
-          <Route path="/extra-tour-info/:id" element={<OtherTourInfo />} />
-        </Routes>
+        <HomeContent />
         <Footer />
       </div>
     </div>

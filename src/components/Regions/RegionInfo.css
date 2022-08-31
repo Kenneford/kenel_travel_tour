@@ -1,20 +1,27 @@
-.accraBgImage h1,
-.accraBgImage p {
+.container {
+  width: 70%;
+  margin: auto;
+}
+.accraBgImageText {
   width: 100%;
-  height: 100%;
+  /* height: 100%; */
   position: absolute;
   left: 0;
   top: 30%;
-  font-size: 4em;
+  text-align: center;
+}
+.accraBgImageText h1 {
+  font-size: 2.5em;
   color: var(--secondary-color);
   text-shadow: 2px 2px 2px var(--primary-color);
 }
-.accraBgImage p {
+.accraBgImageText p {
   top: 37%;
   font-size: 2em;
+  color: var(--secondary-color);
+  text-shadow: 2px 2px 2px var(--primary-color);
 }
 .regContWrap {
-  width: 70%;
   margin: auto;
 }
 .regContWrap h2 {
