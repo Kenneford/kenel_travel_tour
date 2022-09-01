@@ -15,11 +15,23 @@ import { Routes, Route } from "react-router-dom";
 function App() {
   return (
     <div className="App">
-      <div>
-        <Header />
-        <HomeContent />
-        <Footer />
-      </div>
+      <Routes>
+        <Route path="/" element={<HomeContent />} />
+        <Route path="/" element={<Header />}>
+          <Route path="/" element={<Footer />}>
+            <Route path="/about" element={<About />} />
+            <Route path="/contact" element={<Contact />} />
+            <Route path="/upcoming-tour" element={<UpcomingTour />} />
+            <Route path="/region-info/:id" element={<RegionInfo />} />
+            <Route path="/tour-place-info/:id" element={<TourInfo />} />
+            <Route
+              path="/extra-region-info/:id"
+              element={<OtherRegionsInfo />}
+            />
+            <Route path="/extra-tour-info/:id" element={<OtherTourInfo />} />
+          </Route>
+        </Route>
+      </Routes>
     </div>
   );
 }
