@@ -15,7 +15,7 @@ export default function NewHeader() {
       {allData.map((data, id) => {
         console.log(data);
         return (
-          <div>
+          <div key={id}>
             <header>
               <img src={logo} alt="" width="70px" height="70px" />
               <div className="logoText">

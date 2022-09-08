@@ -37,6 +37,18 @@ export default function HomeContent() {
             </div>
           ))}
         </div>
+        {/* <img src={require("./ghana-map.png")} alt="" usemap="#image-map" />
+
+        <map name="image-map">
+          <area
+            target=""
+            alt=""
+            title="Ashanti"
+            href=""
+            coords="169,399,159,403,147,420,129,431,101,442,112,454,99,474,135,499,160,527,187,537,218,536,231,507,239,491,252,472,249,451,273,449,273,434,286,433,293,423,288,413,311,416,321,413,324,406,294,397,281,379,249,381,227,386,210,371,199,380,187,397,184,401"
+            shape="poly"
+          />
+        </map> */}
         <div className="sections">
           <section className="people">
             <div className="cultureText">

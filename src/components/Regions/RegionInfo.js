@@ -11,7 +11,7 @@ export default function NewRegionInfo() {
     <div className="container">
       <div>
         {allData.map((data) => (
-          <div key={data.id}>
+          <div key={data}>
             <div
               className="accraBgImage"
               style={{
